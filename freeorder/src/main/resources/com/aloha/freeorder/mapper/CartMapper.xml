@@ -102,7 +102,7 @@
 
     <!-- 옵션등록 -->
     <insert id="insertOption">
-        INSERT INTO CART_OPTIONS ( id, users_id, carts_id, option_items_id )
+        INSERT INTO cart_options ( id, users_id, carts_id, option_items_id )
         VALUES ( #{id}, #{usersId}, #{cartsId}, #{optionItemsId} )
     </insert>
 

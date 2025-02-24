@@ -3,86 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>프로젝트 시연 마지막 화면</title>
+    <title>영업종료</title>
     <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-            color: #fff;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            overflow: hidden;
-        }
         .container {
-            min-width: 800px;
-            min-height: 400px;
-            text-align: center;
-            padding: 30px;
-            background: rgba(0, 0, 0, 0.8);
-            border-radius: 15px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-            animation: fadeIn 1.5s ease-in-out;
+            width: 100vw;
+            height: 100vh;
             display: flex;
             flex-direction: column;
             justify-content: center;
+            align-items: center;
+            gap: 11px;
         }
-        .container h1 {
-            font-size: 3em;
-            margin-bottom: 10px;
-            color: #00c3ff;
-            text-transform: uppercase;
+        h1 {
+            font-size: 2.8rem;
         }
-        .container h2 {
-            font-size: 1.8em;
-            margin-bottom: 20px;
-            color: #1de9b6;
+        h4 {
+            font-size: 0.8rem;
+            font-weight: normal;
         }
-        .container p {
-            font-size: 1.2em;
-            margin: 5px 0;
-            color: #cfd8dc;
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
         }
-        .container button {
-            background: #1de9b6;
-            border: none;
-            border-radius: 25px;
-            padding: 15px 30px;
-            color: #000;
-            font-size: 1.2em;
-            cursor: pointer;
-            margin-top: 20px;
-            transition: all 0.3s ease;
-        }
-        .container button:hover {
-            background: #00c3ff;
-            transform: scale(1.1);
-        }
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        .body {
+            width: 300px;
+            height: 650px;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 1px solid #aaa;
+            flex-direction: column;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>영업종료!</h1>
-        <h2>불사조 발표 마치겠습니다.</h2>
-        <p>김동진</p>
-        <p>배순영</p>
-        <p>이동현</p>
-        <p>유지현</p>
-        <p>박호영</p>
-        <button onclick="alert('발표가 종료되었습니다!')">감사합니다!</button>
+        <div class="body">
+            <h1>영업종료</h1>
+            <h4>현재는 영업중이 아닙니다.</h4>
+        </div>
     </div>
 </body>
 </html>

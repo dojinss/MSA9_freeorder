@@ -56,14 +56,14 @@
                     <div class="card flex justify-content-start align-items-center mt-3">
                         <img th:src="|/pimg?id=${product.id}|" th:alt="${product.name}" class="menu-image ml-1">
                         <div class="info-box">
-                            <div class="top-area p-10 mb-1 ml-1">
+                            <div class="top-area p-10">
                                 <span class="menu-name" th:text="${product.name}"></span>
                                 <span class="menu-price"
                                     th:text="${#numbers.formatInteger(product.price, 3, 'COMMA') + '원'}"></span>
                             </div>
                             <!-- TODO:Product 객체 Files 객체 포함하고 xml java 매퍼 파일 수정 -->
                             <div class="bot-area">
-                                <span class="menu-info p-10 ml-1" th:text="${product.description}"></span>
+                                <span class="menu-info" th:text="${product.description}"></span>
                                 <!-- 아이콘: 신메뉴/추천메뉴/인기메뉴 -->
                                 <div class="btn-box">
                                     <th:blcok th:if="${favorite}">

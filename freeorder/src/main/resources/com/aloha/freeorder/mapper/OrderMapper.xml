@@ -79,8 +79,8 @@
             ON o.id = oi.orders_id
         LEFT OUTER JOIN order_options op
             ON oi.id = op.order_items_id
-        WHERE status = #{status} 
-          OR status = 'COMPLETE'
+        WHERE o.ordered_at >= ( SELECT started_at FROM setting )
+          AND ( status = #{status} OR status = 'COMPLETE' )
         ORDER BY o.order_number desc,o.created_at desc
     </select>
 

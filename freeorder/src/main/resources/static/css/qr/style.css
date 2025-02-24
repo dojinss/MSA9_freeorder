@@ -305,9 +305,11 @@ img {
   width: 100%;
   margin-top: -30px;
 }
+.bot-area {
+  padding: 0 15px;
+}
 
 .menu-info {
-  margin: 0 10px;
   font-size: medium;
   font-weight: normal;
 }
@@ -553,7 +555,6 @@ input[type="checkbox"]{
 .menu-name {
   font-size: 1.2em;
   color: #333;
-  margin-bottom: 10px;
 }
 
 .order-item {

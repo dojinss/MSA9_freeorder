@@ -1,6 +1,5 @@
 package com.aloha.freeorder.controller.pos;
 
-import java.net.Authenticator;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
