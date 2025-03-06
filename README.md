@@ -58,9 +58,9 @@
 
 ---
 
-## 🎥 **프로젝트 발표 영상**  
+## 🎥 **프로젝트 발표 자료료**  
 
-[**발표 영상 링크**](https://www.youtube.com/watch?v=u6YvGbuR9Qc&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G&index=5)  
+[**발표 자료 링크**]([https://www.youtube.com/watch?v=u6YvGbuR9Qc&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G&index=5](https://docs.google.com/presentation/d/1Pej90O7qWP8zBUKqGAAgSQtNl5027nnh/edit#slide=id.p1))  
 
 ---
 
