@@ -58,7 +58,7 @@
 
 ---
 
-## 🎥 **프로젝트 발표 자료료**  
+## 🎥 **프로젝트 발표 자료**  
 
 [**발표 자료 링크**]([https://www.youtube.com/watch?v=u6YvGbuR9Qc&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G&index=5](https://docs.google.com/presentation/d/1Pej90O7qWP8zBUKqGAAgSQtNl5027nnh/edit#slide=id.p1))  
 
@@ -197,14 +197,15 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 <details>
   <summary>🎬 **QR 수행 결과**</summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/0b47af85-5ae0-4c24-a2a9-7fb554babc5b"><br>
-  <img src="https://github.com/user-attachments/assets/3c9eb244-1065-48bf-bee7-b106fe757ec1"><br>
-  <img src="https://github.com/user-attachments/assets/4f65dd44-549e-4585-a483-39f3e786f5f9"><br>
-  <img src="https://github.com/user-attachments/assets/a0cc5e5f-e935-4161-97b8-2f2232d60a61"><br>
-  <img src="https://github.com/user-attachments/assets/fa63af0d-b050-4852-9cd1-373c3e80a430"><br>
-  <img src="https://github.com/user-attachments/assets/c772a6af-38d0-4bbb-bd2d-661f862161e4"><br>
-  <img src="https://github.com/user-attachments/assets/6888776c-28d0-4569-9a47-dfc7d204625d"><br>
-  <img src="https://github.com/user-attachments/assets/14f69958-2c31-4fd2-acb2-768ef0a88b28">
+  <img src=https://github.com/user-attachments/assets/ddba8be9-9aad-48b7-b150-f6185d7a2564><br>
+  <img src=https://github.com/user-attachments/assets/1f66f2be-0ad6-43e1-a135-236618515cc6><br>
+  <img src=https://github.com/user-attachments/assets/3e08f783-5979-4ed2-a7b0-8dc4839d35af><br>
+  <img src=https://github.com/user-attachments/assets/616c59cf-61be-415b-8d40-32d97f3e5d4d><br>
+  <img src=https://github.com/user-attachments/assets/0d8f048f-62f4-4eb7-b95d-3ba7e1988ec5><br>
+  <img src=https://github.com/user-attachments/assets/2c00ac18-a298-4f14-9606-baefdb2f4878><br>
+  <img src=https://github.com/user-attachments/assets/8195c01a-c4de-45d3-a081-346b7ac1d5cc><br>
+  <img src=https://github.com/user-attachments/assets/a53b163f-04f3-44d1-8532-56e0043bce60>
+
 </details>
 
 ### **2. POS (관리자)**  
@@ -213,27 +214,16 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 <details>
   <summary>🎬 **POS 수행 결과**</summary>
   <br>
-  <img src="https://github.com/user-attachments/assets/f3317e43-a477-4e09-8a5f-17296feecdc1"><br>
-  <img src="https://github.com/user-attachments/assets/2e4cdaae-6f1b-4a2a-98b9-499f692b723c"><br>
-  <img src="https://github.com/user-attachments/assets/eb5d5910-4526-44a3-b725-d4548d06324e"><br>
-  <img src="https://github.com/user-attachments/assets/29477402-766b-4bec-b17b-81e84fd68bcf"><br>
-  <img src="https://github.com/user-attachments/assets/85d4e0dd-b2af-4fd7-92de-08b562ebb244"><br>
-  <img src="https://github.com/user-attachments/assets/23d370f6-2824-4dd7-b00e-feab09e7d8e0"><br>
-  <img src="https://github.com/user-attachments/assets/1d099233-3a77-467a-a12f-60e37372b2db"><br>
-  <img src="https://github.com/user-attachments/assets/ac714135-225e-4cbf-bb9c-60d2537fddff"><br>
-  <img src="https://github.com/user-attachments/assets/287a3d53-2276-4c2b-97d4-2bb342bacee5"><br>
-  <img src="https://github.com/user-attachments/assets/4121fb7d-d4d7-4ae2-b547-6837ef0a3bfe"><br>
-  <img src="https://github.com/user-attachments/assets/0d5b59c7-be63-4a75-8d4c-cfd04d7f7f8c"><br>
-  <img src="https://github.com/user-attachments/assets/81a68820-85c1-4f47-958f-3c4d7b3af40a"><br>
-  <img src="https://github.com/user-attachments/assets/53c0f1e9-e737-4249-849d-3b3ab672f12a"><br>
-  <img src="https://github.com/user-attachments/assets/e983a4e9-9e70-4c60-abd6-f4d85c025d65"><br>
-  <img src="https://github.com/user-attachments/assets/48999561-78f6-4ed4-a04f-2dbfd56ac3e3"><br>
-  <img src="https://github.com/user-attachments/assets/bd41a33a-9c80-4e18-bb36-0656f5b5e397"><br>
-  <img src="https://github.com/user-attachments/assets/86d59110-7491-432b-9bb7-724ac490f2f7"><br>
-  <img src="https://github.com/user-attachments/assets/aa1869e0-c84a-44c1-b14e-45aa2c90b39e"><br>
-  <img src="https://github.com/user-attachments/assets/c71b7a92-3c2a-4941-9293-336dc29d0921"><br>
-  <img src="https://github.com/user-attachments/assets/ae7dfc17-0d94-4c03-8fe1-d94667f0656a"><br>
-  <img src="https://github.com/user-attachments/assets/1eec961f-60da-422e-8e24-db421c8e044e">
+<img src=https://github.com/user-attachments/assets/62de7b4e-9ca5-4be6-ba00-7032cbc2b5dd><br>
+<img src=https://github.com/user-attachments/assets/55131c05-05c9-4852-928d-56eaa184a516><br>
+<img src=https://github.com/user-attachments/assets/6cd45423-c89c-4626-8b41-3d8678decd59><br>
+<img src=https://github.com/user-attachments/assets/9ba3e456-173e-41d1-9f78-c3aa7351d930><br>
+<img src=https://github.com/user-attachments/assets/52d462b8-262a-4f4e-83df-201a9b7a4556><br>
+<img src=https://github.com/user-attachments/assets/4f66d566-5522-46bc-9791-1b2441e968c9><br>
+<img src=https://github.com/user-attachments/assets/591d75f8-745f-4028-b56b-9bae35d793e9><br>
+<img src=https://github.com/user-attachments/assets/7397659f-44d4-4186-8147-53833e4f9f03><br>
+
+  
 </details>
 
 ---
